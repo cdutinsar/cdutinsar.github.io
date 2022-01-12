@@ -1,0 +1,80 @@
+I"3<hr />
+<h2 id="置顶">置顶</h2>
+<p><b>2020.4</b></p>
+<center><b>Time to enter the era of Earth-Observation based landslide warning system. IEEE Geoscience and Remote Sensing Magazine</b> </center>
+
+<div align="center"><img src="/images/era.jpg" width="600" /></div>
+
+<left>&emsp;&emsp; Early warning systems (EWSs) to detect and monitor landslides are a great challenge. They are important due to the high cost of catastrophic landslides and are challenging because of the difficulty in identifying a diverse range of landslide-triggering factors. While there has been a very limited number of successes, recent advances in Earth observation (EO) from the ground, aircraft, and space have dramatically improved our ability to detect and monitor active landslides. A growing body of geotechnical theory suggests that prefailure behavior can offer clues to the location and timing of impending catastrophic failures. In this article, we use two recent landslides in China as case studies to demonstrate that satellite radar observations can be used to detect deformation precursors to catastrophic landslides and that early warnings can be achieved with real-time, in situ observations. We propose a novel and exciting framework that employs EO technologies to build an operational landslide EWS.</left>
+
+<center><br /><a href="https://ieeexplore.ieee.org/abstract/document/8994058">Dai, K., Li, Z.*, Xu, Q., Bürgmann, R., Milledge, D., Tomás, R., Fan, X., Zhao, C., Liu, X., Peng, J., Zhang, Q., Wang, Z., Qu, T., He, C., Li, D., Liu, J. (2020). Time to enter the era of Earth-Observation based landslide warning system. IEEE Geoscience and Remote Sensing Magazine. (SCI, IF=13.0, 中科院一区, TOP期刊) </a> </center>
+
+<hr />
+<p><b>2021.12</b></p>
+<center><b>川藏铁路典型工点 InSAR 监测及几何畸变精细判识</b> </center>
+<div align="center"><img src="/images/zgc_czx.jpg" width="600" /></div>
+<center>&emsp;&emsp; 为了探明川藏铁路典型工点高陡岸坡的稳定性，以及明确 SAR 几何畸变对 InSAR 形变结果的影响，本文利用时序 InSAR 技术开展典型工点高陡岸坡形变监测，并提出了一种可识别所有几何畸变类型的 SAR 几何畸变
+精细判识方法。成功识别出 9 处不稳定的高陡岸坡，获取了各轨道 SAR几何畸变精细识别结果。在精细划分几何畸变的前提下，通过进一步地将几何畸变与形变结果联合分析，首次揭示了各类几何畸变（包括透视收缩、主被动叠掩、主被动阴影）对 InSAR 形变结果的影响效果。本研究明确了 InSAR技术在川藏铁路高陡山区的应用能力、适用范围以及几何畸变区结果可靠性的判识，可为后续高陡岸坡形变监测、精确解译等研究提供重要参考。</center>
+<center><br /><a href="http://kns.cnki.net/kcms/detail/42.1874.P.20211223.1149.012.html">卓冠晨,戴可人,周福军,沈月,陈晨,许强.川藏铁路典型工点InSAR监测及几何畸变精细判识[J/OL].地球科学:1-25[2022-01-06].http://kns.cnki.net/kcms/detail/42.1874.P.20211223.1149.012.html </a> </center>
+
+<hr />
+
+<p><b>2021.9</b></p>
+<center><b>Identifying Potential Landslides by Stacking-InSAR in Southwestern China and Its Performance Comparison with SBAS-InSAR</b> </center>
+<div align="center"><img src="/images/huapo1.jpg" width="600" /></div>
+<p> </p>
+<center>&emsp;&emsp; 西南山区滑坡灾害频发，对当地居民构成严重威胁。合成孔径雷达干涉测量 (InSAR) 使我们能够识别广阔山区的活动潜在滑坡，以帮助预防和减轻灾害,基于海量SAR数据快速准确识别潜在滑坡具有重要意义。本文以中国汶川县附近的国道为研究区域，基于2017年11月至2019年3月共采集的40幅Sentinel SAR图像，采用Stacking-InSAR方法快速定性识别潜在滑坡。 72 个活动斜坡被成功检测为潜在的滑坡。通过将 Stacking-InSAR 的结果与传统 SBAS-InSAR（Small Baselines Subset）时间序列方法的结果进行比较，发现两种方法具有较高的一致性，两种方法均识别出 81.7% 的潜在滑坡.对探测差异进行了详细比较，发现Stacking-InSAR 与 SBAS-InSAR相比，可能会漏掉一些空间尺度小、位移水平小和受大气影响的活动斜坡，而在较差的情况下具有良好的性能。 具有技术要求低、计算量少的优点。Stacking-InSAR 方法将是一种快速有效的方法，可以在广泛的山区定性有效地识别潜在的滑坡，并全面了解其特点和局限性。</center>
+<center><br /><a href="https://www.mdpi.com/2072-4292/13/18/3662">Zhang, L.; Dai, K.; Deng, J.; Ge, D.; Liang, R.; Li, W.; Xu, Q. Identifying Potential Landslides by Stacking-InSAR in Southwestern China and Its Performance Comparison with SBAS-InSAR. Remote Sens. 2021, 13, 3662.</a> </center>
+
+<hr />
+<p><b>2021.5</b></p>
+<center><b>川藏铁路沿线 Sentinel-1 影像几何畸变与升降轨适宜性定量分析</b> </center>
+<p> </p>
+<div align="center"><img src="/images/jhjb.jpg" width="600" /></div>
+<p> </p>
+<center>&emsp;&emsp; 川藏铁路作为我国意义非凡的重大工程，也是世界铁路史上地形最复杂，地质安全问题最严峻的铁路。合成孔径雷达干涉测量技术（InSAR）凭借其广覆盖、高精度、高效率等特点已成为地质灾害隐患早期识别与监测的重要手段，但是其在川藏线地形起伏剧烈的高山峡谷区域会面临较为严重的几何畸变问题。本文以覆盖面最广、获取时间最密的全球完全开放获取的 Sentinel-1 数据为例，将川藏铁路沿线作为研究区域，开展卫星雷达影像几何畸变与适宜性分析。本文综合考虑 SAR 成像几何、Sentinel-1 影像斜距向入射角差异及被动几何畸变三个方面，提出了一套基于局部入射角的 Sentinel-1 影像几何畸变区域精准定量识别方法，并对川藏线全线几何畸变进行了定量计算与升降轨适宜性分析。结果显示川藏线所在极陡高山峡谷区单轨道几何畸变区域达到 31%~35%，升降轨联合观测可以有效将几何畸变区域减小至 1.5%，同时约有35%区域适宜升降轨同时观测进行联合分析。该结果定量揭示了川藏铁路廊道升降轨 Sentinel-1 数据的适宜性，不仅能提高对该地区基于 Sentinel-1 影像的 InSAR 监测适用性及其结果解译准确性全面认识，也为未来其它 SAR 卫星数据的高效选择提供方法参考，为川藏铁路沿线的地质灾害隐患 InSAR 识别与监测提供技术支撑。</center>
+<center><br /><a href="https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.13203/j.whugis20210130">戴可人,张乐乐,宋闯,李振洪,卓冠晨,许强.川藏铁路沿线Sentinel-1影像几何畸变与升降轨适宜性定量分析[J].武汉大学学报(信息科学版),2021,46(10):1450-1460. </a> </center>
+
+<hr />
+<p><b>2020.6</b></p>
+<center><b>高山峡谷区滑坡灾害隐患InSAR早期识别——以雅砻江中段为例</b> </center>
+<p> </p>
+<div align="center"><img src="/images/ylj.jpg" width="600" /></div>
+<p> </p>
+<center>&emsp;&emsp; 我国西部山区滑坡灾害频发，具有强隐蔽性、高突发性、强破坏性等特点，对灾害隐患点进行早期识别是最为有效的防灾减灾措施。西部山区多为高山峡谷区域且范围辽阔，人不易至甚至人不能至，传统的人工排查早期识别方法较难实施。合成孔径雷达干涉测量技术(InSAR)作为新兴雷达遥感测量手段，可以高效准确地对高山峡谷区域进行滑坡灾害隐患早期识别。该文基于欧洲空间局(ESA)的哨兵一号(Sentinel-1)SAR遥感数据，利用时间序列InSAR技术对雅砻江流域雅江县-木里县段的高山峡谷区域进行了滑坡灾害隐患广域早期识别，成功探测到8处隐患区域。并结合滑坡隐患历史资料与光学影像遥感解译对识别结果进行了验证与分析，对灾害点风险等级进行了评定。并探讨了几何畸变因素对高山峡谷区域InSAR技术滑坡灾害隐患广域早期识别的影响。该案例可为当地的防灾减灾提供有力的数据与技术支持，并为高山峡谷区的滑坡灾害隐患早期识别提供思路与参考。</center>
+<center><br /><a href="https://kns.cnki.net/kcms/detail/detail.aspx?filename=LDAX202003012&amp;dbcode=CJFD&amp;dbname=CJFD2020&amp;v=IgA0gHLZD_mXVIdVfVsi16l3yXZG7c4d2_evD03UfugFitFKOqgv11XwzBpTEGwz">戴可人,铁永波,许强,冯也,卓冠晨,史先琳.高山峡谷区滑坡灾害隐患InSAR早期识别——以雅砻江中段为例[J].雷达学报,2020,9(03):554-568.</a> </center>
+
+<p><b>2019.12</b></p>
+<center><b>雷达干涉测量对甘肃南峪乡滑坡灾前二维形变追溯</b> </center>
+<p> </p>
+<div align="center"><img src="/images/gs.jpg" width="600" /></div>
+<p> </p>
+<center>&emsp;&emsp; 利用存档光学遥感影像对灾前演变情况进行分析是目前常用的方法，但往往受限于获取时间密度、云量等因素。随着雷达遥感卫星数据质量的不断提升，合成孔径雷达干涉测量（interferometric syntheticaperture radar,InSAR）技术可以为滑坡灾前形变探测提供新的技术途径。基于欧洲空间局哨兵一号（Sentinel-1）雷达卫星数据，同时结合升轨与降轨视线向形变结果提取沿坡向与垂直向二维形变，对 2018 年 7 月 12 日甘肃南峪乡滑坡灾前二维形变进行追溯分析。时序结果显示,该滑坡自 2017 年 6 月起便已经开始缓慢的变形，至滑坡发生前 13 个月时最大累积形变量达 77 mm。结合降雨量数据对比分析，发现该滑坡灾前变形与降雨量变化高度吻合，说明降雨是该滑坡发生的主要诱因之一。该 InSAR 追溯结果展示了星载雷达干涉测量技术在滑坡探测方面的应用潜力，为滑坡诱因分析、防灾减灾乃至滑坡监测预警工作提供了新的思路与参考。</center>
+<center><br /><a href="https://kns.cnki.net/kcms/detail/detail.aspx?filename=WHCH201912006&amp;dbcode=DKFX&amp;dbname=DKFX2019&amp;v=2siQkXFXmQvCmJjAJ82y0NG1_kIm3RdaOBYhTj7RCK7XHctS-WjE-6Vkx9As1mHw">戴可人,卓冠晨,许强,李振洪,李为乐,管威.雷达干涉测量对甘肃南峪乡滑坡灾前二维形变追溯[J].武汉大学学报(信息科学版),2019,44(12):1778-1786+1796.</a> </center>
+
+<hr />
+<p><b>2019</b></p>
+<center><b>Post-disaster assessment of 2017 catastrophic Xinmo landslide (China) by spaceborne SAR interferometry </b> </center>
+<center><br /><a href="hhttps://link.springer.com/article/10.1007/s10346-019-01152-4">Dai, K., Xu, Q.*, Li, Z., Tomas, R., Fan, X., Dong, X., Li, W., Zhou, Z., Gou, J., Ran, P.(2019). Post-disaster assessment of 2017 catastrophic Xinmo landslide (China) by spaceborne SAR interferometry. Landslides. 16(6), 1189-1199. (SCI, IF=4.0, 中科院二区, TOP期刊)</a> </center>
+
+<p> </p>
+<center><b>重大地质灾害隐患早期识别中综合遥感应用的思考与建议 </b> </center>
+<center><br /><a href="https://kns.cnki.net/kcms/detail/detail.aspx?filename=WHCH201907001&amp;dbcode=DKFX&amp;dbname=DKFX2019&amp;v=2siQkXFXmQuFGl_oRoAfyh-Rc9fTZ9_E3CScDd60-GzFUGUzl_YH7oNpf8RHBiva">葛大庆,戴可人,郭兆成,李振洪.重大地质灾害隐患早期识别中综合遥感应用的思考与建议[J].武汉大学学报(信息科学版),2019,44(07):949-956.</a> </center>
+<p> </p>
+<center><b>卫星雷达遥感在滑坡灾害探测和监测中的应用:挑战与对策 </b> </center>
+<center><br /><a href="https://kns.cnki.net/kcms/detail/detail.aspx?filename=WHCH201907003&amp;dbcode=DKFX&amp;dbname=DKFX2019&amp;v=2siQkXFXmQsVljBUngiSDZ0bIbsae6_J9ed0xFIHPSzJKiQ8WZq6QVzd3eNDG2or">李振洪,宋闯,余琛,肖儒雅,陈立福,罗慧,戴可人,葛大庆,丁一,张宇星,张勤.卫星雷达遥感在滑坡灾害探测和监测中的应用:挑战与对策[J].武汉大学学报(信息科学版),2019,44(07):967-979.</a> </center>
+
+<hr />
+<p><b>2018</b></p>
+<center><b>融合新一代卫星SAR数据的地形与形变信息提取模型与方法 </b> </center>
+<center><br /><a href="https://kns.cnki.net/kcms/detail/detail.aspx?filename=CHXB201803016&amp;dbcode=CJFD&amp;dbname=CJFD2018&amp;v=2G1sDzFVove2KCItf2W-jCbZ6CXE-zZVjNtXZfgAA9NA7CYDVIn39sX6kLWAMTPb">戴可人.融合新一代卫星SAR数据的地形与形变信息提取模型与方法[J].测绘学报,2018,47(03):422.</a> </center>
+
+<hr />
+<p><b>其他</b></p>
+<center><b>Monitoring activity at the Daguangbao mega-landslide (China) using Sentinel-1 TOPS time series interferometry.  </b> </center>
+<center><br /><a href="https://www.sciencedirect.com/science/article/pii/S0034425716303522">Dai, K., Li, Z.*, Tomás, R., Liu, G., Yu, B., Wang, X., Cheng, H., Chen J., Stockamp, J. (2016). Monitoring activity at the Daguangbao mega-landslide (China) using Sentinel-1 TOPS time series interferometry. Remote Sensing of Environment, 186, 501–513. (SCI, IF=6.26, 中科院一区, TOP期刊)</a> </center>
+
+<hr />
+<p>等</p>
+
+:ET

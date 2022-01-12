@@ -1,0 +1,21 @@
+main:
+  - title: "团队介绍"
+    url: /about/
+  - title: "科学研究"
+    url: /kexueyanjiu/
+  - title: "代表性成果简述"
+    url: /daibiaoxingchengguo/
+  - title: "招生信息"
+    url: /zhaosheng/
+  - title: "English"
+    url: /English/
+docs:
+  - title: "滑坡"
+    url: /Landslides/
+  - title: "沉降"
+    url: /Deformation/ 
+  - title: "冰川冰湖"
+    url: /Ice/
+  - title: "其他"
+    url: /other/
+  
