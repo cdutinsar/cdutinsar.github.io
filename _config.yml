@@ -10,7 +10,6 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -249,78 +248,9 @@ compress_html:
 
 # Defaults
 
-defaults:
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _team
-  - scope:
-      path: ""
-      type: 团队介绍
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _about
-  - scope:
-      path: ""
-      type: 团队成就
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _Earthquakes
-  - scope:
-      path: ""
-      type: 地震
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-# _Landslides
-  - scope:
-      path: ""
-      type: 滑坡
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-# _Deformation
-  - scope:
-      path: ""
-      type: 沉降
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
 
 
 
