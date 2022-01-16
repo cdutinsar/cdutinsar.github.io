@@ -12,12 +12,6 @@ main:
   - title: "English"
     url: /English/
 docs:
-  - title: "滑坡"
-    url: /Landslides/
-  - title: "沉降"
-    url: /Deformation/ 
-  - title: "冰川冰湖"
-    url: /Ice/
-  - title: "其他"
-    url: /other/
+  - title: "最新动态"
+    url: index.html
   
