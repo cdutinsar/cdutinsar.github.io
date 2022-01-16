@@ -1,4 +1,6 @@
 main:
+  - title: "最新动态"
+    url: index.html
   - title: "团队介绍"
     url: /about/
   - title: "科学研究"
