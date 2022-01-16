@@ -246,11 +246,6 @@ compress_html:
     envs: development
 
 
-# Defaults
-
-plugins:
-  - jekyll-feed
-  - jekyll-include-cache
 
 
 
