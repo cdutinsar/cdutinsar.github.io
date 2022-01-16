@@ -23,7 +23,7 @@ description              : &description "成都理工大学多源遥感对地观
 url                      : #"http://www.cdut.edu.cn/ "
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/img/S1.jpg"
+teaser                   : "images/header.png"
 logo                     : "images/header.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
